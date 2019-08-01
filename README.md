@@ -1,2 +1,2 @@
 # hello-world
-Just figuring this thing out
+Just figuring this thing out.
